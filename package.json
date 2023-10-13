@@ -1,0 +1,11 @@
+{
+  "name": "nodeServer1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Aghiad-Alzein-78/nodeServer1.git",
+  "author": "Aghiad-Alzein-78 <aghiad_alzein@yahoo.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
